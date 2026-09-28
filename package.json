@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/shapeipv4",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shape URLs and ipv4 query parts with stable normalization.",
+  "bin": {
+    "shapeipv4": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/shapeipv4.git"
+  },
+  "homepage": "https://theworker02.github.io/shapeipv4/",
+  "keywords": [
+    "shape",
+    "ipv4",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
